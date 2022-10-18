@@ -1,0 +1,54 @@
+{
+  "streams": [
+    {
+      "stream_id": "1",
+      "stream_name": "Data Scientist Stream",
+      "stream_image": "softwarearchitect.jpg"
+    },
+    {
+      "stream_id": "2",
+      "stream_name": "Web Architect Stream",
+      "stream_image": "webarchitect.png"
+    },
+    {
+      "stream_id": "3",
+      "stream_name": "Software Architect Stream",
+      "stream_image": "softwarearchitect.jpg"
+    },
+    {
+      "stream_id": "4",
+      "stream_name": "Forensic Scientist Stream",
+      "stream_image": "forensicscience.jpg"
+    },
+    {
+      "stream_id": "5",
+      "stream_name": "Software Quality Assurance Stream",
+      "stream_image": "softwarequalityassurance.jpg"
+    },
+    {
+      "stream_id": "6",
+      "stream_name": "Astronomy Calculus Stream",
+      "stream_image": "astronomycalculus.jpg"
+    },
+    {
+      "stream_id": "7",
+      "stream_name": "Multi-Agent Systems Stream",
+      "stream_image": "aistream.png"
+    },
+    {
+      "stream_id": "8",
+      "stream_name": "Biological Statistics Stream",
+      "stream_image": "biostatistics.jpg"
+    },
+    {
+      "stream_id": "9",
+      "stream_name": "Designing Renewable Energy Systems Stream",
+      "stream_image": "renewablestream.jpg"
+    },
+    {
+      "stream_id": "10",
+      "stream_name": "Robots and Automation Stream",
+      "stream_image": "automation.jpg"
+    }
+  ]
+}
